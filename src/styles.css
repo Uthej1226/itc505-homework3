@@ -1,6 +1,13 @@
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
+/* styles.css */
+.unique-font {
+    font-family: 'Bangers', cursive;
+    font-size: 24px;
+    color: purple;
+    text-align: center;
+}
 
 html, body {
   margin: 0;
